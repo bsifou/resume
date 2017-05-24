@@ -1,0 +1,87 @@
+#+TITLE: Sifou Biri
+#+LANGUAGE: en
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: odd hidestars indent showall
+#+INCLUDE: personal_info.org
+#+LaTeX_CLASS: article
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \hypersetup{hidelinks}
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{nolistsep}
+#+LaTeX_HEADER: \pagenumbering{gobble}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+
+{{{SUBTITLEROWS}}}
+{{{HEADER}}}
+
+* Summary
+
+- Have a great passion for the craft of Software making
+
+- Loves learning and it's rewarding Aha! moments
+
+- Loves finding and solving problems
+
+- Github: https://github.com/bsifou
+
+* Education
+*** University of Winnipeg, ACS
+***** 2017
+BSc, Applied Computer Science
+- *Relevant courses*: Software Design & Arch, Database systems, Design
+  Patterns, Computer Networking, Computer Security, Advanced Internet
+  Programming, Graph Theory, Data Struct & Algorithms, Unix, Database
+  Systems, Game Theory & Strategy
+
+- *online Courses*: Systematic Program Design - UBCX, Learning How to
+  Learn
+
+* Relevant Experience
+*** Application developer, Course project
+***** Jan 2016 - Apr 2016
+- Designed and implemented a Web app to help students in matching to
+  form team projects. Using React.js, Meteor.js, Bootstrap, Github
+  API. First iteration was done  with Java Servlets.
+* Languages:
+- English, French (fluent in both)
+
+* Skills
+- Object Oriented Programming: Java and JavaScript
+- Functional, Data Oriented, multi-threaded Programming: Clojure, ClojureScript,
+  Racket/ Scheme
+- Web technologies: React, Om, HTML5, CSS, REST
+- Relational databases: SQL (PostgresSQL), Datalog (Datomic)
+- NonSQL databases: MongoDB
+- Linux and command line utilities
+- Programming tools: Emacs, Git, IntelliJ IDEA, build tools (Gradle,
+  Leiningen), JIRA
+- Grasp of CS fundamentals (Algorithms, Networking)
+- Testing: unit testing, property based testing
+- Problem solving and techniques, eagerness to learn more
+* Interests
+- Open Source, Functional Programming, Philosophy, Economics, Strength training, Cooking,
+  Meditation
+* Other Experience:
+*** Construction worker, North York
+***** Apr 2016 - Aug 2016
+- Worked with the project owner and manager and helped preparing and
+  setting up the work space as the construction developed. This
+  involved cleaning, carrying materials, setting up the tools, and
+  working with different teams.
+
+* Volunteer Experience
+*** Toronto Jazz Festival volunteer
+***** June 2016
+- Provided guidance to visitors, answered their questions
+  and stimulated  their interest in the event
+- Organized and helped in setting up the stage for musicians as
+  well for the attendees
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,81 @@
+
+#+TITLE: Sifou Biri
+#+LANGUAGE: en
+#+OPTIONS: toc:nil H:10 tex:t
+#+STARTUP: odd hidestars indent showall
+#+INCLUDE: personal_info.org
+#+LaTeX_CLASS: article
+#+LaTeX_HEADER: \usepackage{mycv}
+#+LaTeX_HEADER: \hypersetup{hidelinks}
+#+LaTeX_HEADER: \usepackage{enumitem}
+#+LaTeX_HEADER: \setlist{nolistsep}
+#+LaTeX_HEADER: \pagenumbering{gobble}
+#+LaTeX_CLASS_OPTIONS: [letterpaper]
+
+{{{SUBTITLEROWS}}}
+{{{HEADER}}}
+
+* Sommaire
+- Possède une grande passion pour le domaine de développement des
+  logiciels
+- Prendre plaisir a apprendre nouveaux choses
+- Aime découvrir et résoudre des problèmes
+- Github: https://github.com/bsifou
+
+* Education
+*** University of Winnipeg, ACS
+***** 2017
+BSc, Applied Computer Science
+ - *Échantillon de cours*: Software Design & Arch, Database systems, Design
+  Patterns, Computer Networking, Computer Security, Advanced Internet
+  Programming, Graph Theory, Data Struct & Algorithms, Unix, Database
+  Systems, Game Theory & Strategy
+
+- *Courses en ligne*: Systematic Program Design - UBCX, Learning How to
+  Learn
+
+* Expérience Applicable
+*** Développeur Logiciel, Projet de cours
+***** Jan 2016 - Apr 2016
+- J'ai développé une application pour le Web pour faciliter la tache
+  aux étudiants de trouver un coéquipier pour projets de cours en
+  utilisant  React, Meteor, Bootstrap, Github API. La première version
+  est faite avec Java Servlets.
+
+* Langages:
+- Anglais, Français (parle les deux couramment)
+
+* Compétences Techniques:
+- Programmation orientée objet: Java, JavaScript
+- Programmation fonctionnelle, orientée vers les données: Clojure,
+    ClojureScript, Racket/Scheme
+- Technologies de web: Om, React, HTML5, CSS, REST
+- Base de données relationnelle: SQL (PostgresSQL), Datalog (Datomic)
+- Base de données NonSQL: MongoDB
+- Linux, ligne de commande
+- Outils de programmation: Emacs, Git, IntelliJ IDEA, Gradle,
+  Leiningen, JIRA
+- Compréhension des notions de base d'informatique (Algorithmes, Réseau)
+- Résolutions des problèmes et techniques, désir de toujours
+  apprendre.
+- Test des systèmes: Unit Test, QuickCheck
+* Intérêts
+- Open Source, Programmation fonctionnelle (Clojure), Philosophie,
+  Économie, Entraînement Physique, Méditation, Littérature.
+
+* Autre Expérience:
+*** Construction, North York
+***** Apr 2016 - Aug 2016
+- J'ai travaillé pour le propriétaire du projet pour l'aider dans la
+  préparation du champ de construction, faire le nettoyage, préparation
+  des outils nécessaires, porte de matériels.
+
+* Faire du bénévolat
+*** Toronto Jazz Festival volunteer
+***** June 2016
+- J'ai participé dans l'orientation des visiteurs et de répondre a
+  leurs questions et stimuler leur intérêt. Aussi a aider et participer dans la mise en scène.
+
+
+
+
