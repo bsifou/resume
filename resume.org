@@ -15,20 +15,23 @@
 {{{HEADER}}}
 
 * Summary
-- Have a great passion for the craft of Software developement
+
 - Loves learning and it's rewarding Aha! moments
+
 - Loves finding and solving problems
+
 - Github: https://github.com/bsifou
+
 * Education
 *** University of Winnipeg, ACS
 ***** 2017
-BSc, Applied Computer Science
+BSc,  Computer Science
 - *Relevant courses*: Software Design & Arch, Database systems, Design
   Patterns, Computer Networking, Computer Security, Advanced Internet
-  Programming, Graph Theory, Linear Algebra, Data Struct & Algorithms,
-  Unix, Database Systems, Game Theory & Strategy
+  Programming, Graph Theory, Data Struct & Algorithms, Unix, Database
+  Systems, Game Theory & Strategy
 
-- *Online Courses*: Systematic Program Design - UBCX, Learning How to
+- *online Courses*: Systematic Program Design - UBCX, Learning How to
   Learn
 
 * Relevant Experience
@@ -40,25 +43,23 @@ BSc, Applied Computer Science
 * Languages:
 - English, French (fluent in both)
 
-* Skills/Technologies
-- Object Oriented Programming: Java and JavaScript
+* Skills
+- Object Oriented Programming: Java, JavaScript
 - Functional, Data Oriented, concurrent Programming: Clojure, ClojureScript,
-  Racket/Scheme
-- Firm grasp of CS fundamentals (Algorithms, Networking, Language
-  Paradigms)
-- Problem solving and techniques, openess and eagerness to learn more
-- Web programming: React, Om, HTML5, CSS, REST
-- Relational databases: SQL (PostgresSQL), Datalog (Datomic)
+  Racket/ Scheme
+- Web technologies: React, Om, HTML5, CSS, REST
+- Relational databases: PostgresSQL (SQL), Datomic (Datalog)
 - Document databases: MongoDB
-- Linux as developement environment
-- Programming tools: Emacs, Git, IntelliJ IDEA, build tools (Gradle,
+- GNU/Linux OS,  command line utilities
+- Grasp of CS fundamentals (Algorithms, Networking)
+- Problem solving and perseverance, eagerness to learn more
+- Testing: unit testing, property based testing
+- Programming tools: Emacs, git, IntelliJ IDEA, build tools (Gradle,
   Leiningen), JIRA
-- Testing: example testing (Unit test), property based testing (QuickCheck)
 
 * Interests
-- Open Source and technologies like: ClojureScript & React Native,
-  Philosophy, Economics, Strength training, Cooking, Meditating.
-
+- Open Source, Functional Programming, React Native, Philosophy,
+  Economics, Strength training, Cooking, Meditation
 * Other Experience:
 *** Construction worker, North York
 ***** Apr 2016 - Aug 2016
@@ -74,5 +75,12 @@ BSc, Applied Computer Science
   and stimulated  their interest in the event
 - Organized and helped in setting up the stage for musicians as
   well for the attendees
+
+
+
+
+
+
+
 
 
